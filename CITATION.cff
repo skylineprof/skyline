@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use Skyline, please cite it as below."
+authors:
+- family-names: "Yu"
+  given-names: "Geoffrey X."
+- family-names: "Grossman"
+  given-names: "Tovi"
+- family-names: "Pekhimenko"
+  given-names: "Gennady"
+title: "Skyline: Interactive In-Editor Computational Performance Profiling for Deep Neural Network Training"
+version: 0.5.0
+date-released: 2020-07-22
+url: "https://github.com/skylineprof/skyline"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Yu"
+    given-names: "Geoffrey X."
+  - family-names: "Grossman"
+    given-names: "Tovi"
+  - family-names: "Pekhimenko"
+    given-names: "Gennady"
+  collection-title: "Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology (UIST '20)"
+  doi: 10.1145/3379337.3415890
+  start: 126
+  end: 139
+  title: "Skyline: Interactive In-Editor Computational Performance Profiling for Deep Neural Network Training"
+  month: 10
+  year: 2020
